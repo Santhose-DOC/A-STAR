@@ -213,7 +213,6 @@ aStarAlgo('S', 'G')
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
-
 <hr>
 <h2>Sample Input</h2>
 <hr>
