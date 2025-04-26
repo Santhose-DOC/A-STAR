@@ -158,7 +158,13 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
+
+
+![image](https://github.com/user-attachments/assets/ebf8856c-b530-442e-b17f-d5b7e0353a45)
+
+
 <hr>
+
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 
@@ -213,6 +219,7 @@ aStarAlgo('S', 'G')
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
+
 <hr>
 <h2>Sample Input</h2>
 <hr>
@@ -231,6 +238,12 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+
+
+![image](https://github.com/user-attachments/assets/fc02715c-e6aa-4c03-abde-c8eec0629a54)
+
+
+
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
